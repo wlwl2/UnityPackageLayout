@@ -1,0 +1,20 @@
+{
+  "name": "com.wlwl2.package-layout",
+  "version": "0.1.0",
+  "displayName": "Package Layout",
+  "description": "Package layout example.",
+  "unity": "2018.4",
+  "unityRelease": "18f1",
+  "dependencies": {
+  },
+  "keywords": [
+    "package",
+    "layout",
+    "default"
+  ],
+  "author": {
+    "name": "William Lim",
+    "email": "manvinedi@gmail.com",
+    "url": "https://www.wlwl2.com/"
+  }
+}
